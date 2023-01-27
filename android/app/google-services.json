@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "798730422090",
+    "project_id": "ubairgo-pms",
+    "storage_bucket": "ubairgo-pms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798730422090:android:d9f1c8928d9e36712663b3",
+        "android_client_info": {
+          "package_name": "com.qimadev.ubairgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798730422090-37mdmsmbkipidhaubm2gm4sfjvqloe38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHspXk88k7Y7az-rhzMl8sPXnSmvPvxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798730422090-37mdmsmbkipidhaubm2gm4sfjvqloe38.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798730422090-o939gq97oess9s1546a8uer208oiu9l9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qimadev.ubairgo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
